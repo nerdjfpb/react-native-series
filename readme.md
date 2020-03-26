@@ -10,4 +10,5 @@ You can check the commits to find the part by part codes.
 
 # See Instagram Version
 
-- [Day 1](https://www.instagram.com/p/B-EsmshATpS/)
+- [Day 1 - React Native Intro](https://www.instagram.com/p/B-EsmshATpS/)
+- [Day 2 - Stylesheet in React Native](https://www.instagram.com/p/B-JxJdzlf5E/)
