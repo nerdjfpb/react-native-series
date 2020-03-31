@@ -13,3 +13,4 @@ You can check the commits to find the part by part codes.
 - [Day 1 - React Native Intro](https://www.instagram.com/p/B-EsmshATpS/)
 - [Day 2 - Stylesheet in React Native](https://www.instagram.com/p/B-JxJdzlf5E/)
 - [Day 3 - State in React Native](https://www.instagram.com/p/B-PK5LmAkKi/)
+- [Day 4 - Props in React Native](https://www.instagram.com/p/B-UFIC2gyIl/)

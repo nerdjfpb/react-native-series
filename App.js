@@ -1,18 +1,15 @@
-import React from 'react'
-import { StyleSheet, Text, View } from 'react-native'
+import React, { useState } from 'react'
+import { StyleSheet, View } from 'react-native'
 
-export default class App extends React.Component {
-	state = {
-		counter: 0
-	}
+import Counter from './Counter'
 
-	render() {
-		return (
-			<View style={styles.container}>
-				<Text style={styles.mainText}>Counter: {this.state.counter}</Text>
-			</View>
-		)
-	}
+export default function App() {
+	const [counter, setCounter] = useState(0)
+	return (
+		<View style={styles.container}>
+			<Counter counter={counter} />
+		</View>
+	)
 }
 
 const styles = StyleSheet.create({
@@ -21,9 +18,5 @@ const styles = StyleSheet.create({
 		backgroundColor: '#fff',
 		alignItems: 'center',
 		justifyContent: 'center'
-	},
-	mainText: {
-		backgroundColor: '#5CA2FA',
-		padding: 20
 	}
 })
