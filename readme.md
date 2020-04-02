@@ -15,3 +15,4 @@ You can check the commits to find the part by part codes.
 - [Day 3 - State in React Native](https://www.instagram.com/p/B-PK5LmAkKi/)
 - [Day 4 - Props in React Native](https://www.instagram.com/p/B-UFIC2gyIl/)
 - [Day 5 - Hook in React Native](https://www.instagram.com/p/B-Z0CxfAe1d/)
+- [Day 6 - Core & Native Components in React Native](https://www.instagram.com/p/B-eaneUAxt7/)
