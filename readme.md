@@ -18,3 +18,6 @@ You can check the commits to find the part by part codes.
 - [Day 6 - Core & Native Components in React Native](https://www.instagram.com/p/B-eaneUAxt7/)
 - [Day 7 - Platform specific code in React Native](https://www.instagram.com/p/B-jocETFsN3/)
 
+# Projects
+
+- [Day 8 - Counter App using React Native](https://www.instagram.com/p/B-orhNBAfmj/)
