@@ -8,7 +8,7 @@ import {
 	FlatList,
 } from 'react-native'
 
-export default function App() {
+export default function simpleTodoApp() {
 	const [todo, setTodo] = useState([])
 	const [todoInputValue, setTodoInputValueChange] = useState('')
 
